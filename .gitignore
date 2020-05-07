@@ -1,0 +1,7 @@
+*.obj
+$RECYCLE.BIN/
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
